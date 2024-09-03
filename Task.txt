@@ -1,0 +1,14 @@
+Proyecto JAVA SPRINGBOOT - RATIOS (Version 1)
+
+- Leer datos precio de tablas (Ticker($), Fecha y precios).
+- Una tabla tiene id, ticket, nombre tabla.
+- Otra tabla id, fecha, ticker, descripcion, precio.
+
+
+1. Una pantalla html, que tenga menú desplegable según ticker. 2 diferentes menús. 
+
+2. Boton, buscar.
+
+3. Y que cuando aprietes buscar, se despliegue un gráfico de ratios que compare los 2.
+
+
